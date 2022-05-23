@@ -2,14 +2,15 @@
 title: Jennifer Walsh
 role: PhD Student, Business Economics
 bio: ""
-interests: []
+interests:
+  - Economics
 social:
   - icon: envelope
     icon_pack: far
     link: mailto:jenniferwalsh@g.harvard.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/jennifermwalsh
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
