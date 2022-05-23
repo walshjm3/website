@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01986-5'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
