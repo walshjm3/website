@@ -11,7 +11,7 @@ main:
  #   url: '#posts'
  #   weight: 20
   - name: Working Papers
-    url: '#projects'
+    url: '#working_paper'
     weight: 20
   - name: Publications
     url: '#publication'
