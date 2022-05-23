@@ -13,7 +13,6 @@ authors:
   - Peter J. Park
 
 # Author notes (optional)
-author_notes:
 
 date: '2020'
 doi: ''
