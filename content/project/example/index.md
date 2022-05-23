@@ -1,16 +1,16 @@
 ---
-title: The Effects of CEOs on Hospital Outcomes
-summary: with Nagisa Tadjfar.
+title: Example Project
+summary: An example of using the in-built project page.
 tags:
   - Economics
-date: '2022-05-23'
+date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 links:
   - icon: twitter
