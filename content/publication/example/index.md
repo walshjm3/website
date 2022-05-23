@@ -7,7 +7,7 @@ title: 'HiNT: a computational method for detecting copy number variations and tr
 authors:
   - Su Wang
   - Peter Kerpedijiev
-  - GM Nelson
+  - Geoffrey M. Nelson
   - admin
   - Burak H. Alver
   - Peter J. Park
