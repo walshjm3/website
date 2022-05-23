@@ -1,24 +1,30 @@
 ---
-title: 'A proteome-scale map of the human interactome network'
+title: 'High-Resolution Spectroscopic Study of Extremely Metal-Poor Star Candidates from the SkyMapper Survey'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Rolland, Thomas
-  - Tasan, Murat
-  - Charloteaux, Benoit
-  - Pevzner, Samuel J
-  - Zhong, Quan
-  - Sahni, Nidhi
-  - Yi, Song
-  - Lemmens, Irma
-  - Fontanillo, Celia
-  - Mosca, Roberto
+  - Heather R. Jacobson
+  - Stefan Keller
+  - Anna Frebel
+  - Andrew R. Casey
+  - Martin Asplund
+  - Michael S. Bessell
+  - Gary S. Da Costa
+  - Karin Lind
+  - Anna F. Marino
+  - John E. Norris
+  - José M. Peña
+  - Brian P. Schmidt
+  - Patrick Tisserand
+  - admin
+  - David Yong
+  - Qinsi Yu
 
 # Author notes (optional)
 
-date: '2014-11-20'
+date: '2015-07-09'
 doi: ''
 
 # Publication type.
@@ -28,7 +34,7 @@ doi: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Cell
+publication: The Astrophysical Journal
 publication_short:
 
 abstract: 
@@ -44,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01986-5'
+url_pdf: 'https://iopscience.iop.org/article/10.1088/0004-637X/807/2/171/meta'
 url_code: ''
 url_dataset: ''
 url_poster: ''
