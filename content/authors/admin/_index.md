@@ -26,6 +26,7 @@ social:
       header: true
 organizations:
   - name: Harvard Business School
+    url: https://www.hbs.edu/doctoral/Pages/default.aspx
 education:
   courses:
     - course: A.B. in Physics & Mathematics
