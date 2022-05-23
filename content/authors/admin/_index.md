@@ -3,7 +3,8 @@ title: Jennifer Walsh
 role: PhD Student, Business Economics
 bio: ""
 interests:
-  - Economics
+  - Industrial Organization
+  - Public Economics
 social:
   - icon: envelope
     icon_pack: far
