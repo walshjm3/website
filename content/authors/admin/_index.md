@@ -1,6 +1,7 @@
 ---
 title: Jennifer Walsh
 role: PhD Student, Business Economics
+avatar_filename: hbs-headshot.png
 bio: ""
 interests:
   - Industrial Organization
@@ -20,7 +21,9 @@ social:
     link: https://github.com/walshjm3
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jennifer-walsh-a9613b10a/
+    display:
+      header: true
 organizations:
   - name: Harvard Business School
 education:
