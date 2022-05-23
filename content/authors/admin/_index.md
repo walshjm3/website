@@ -1,7 +1,7 @@
 ---
 title: Jennifer Walsh
 role: PhD Student, Business Economics
-avatar_filename: hbs-headshot.png
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Industrial Organization
