@@ -64,7 +64,13 @@ publication_types: ['2']
 publication: Cell
 publication_short:
 
-abstract: The three-dimensional conformation of a genome can be profiled using Hi-C, a technique that combines chromatin conformation capture with high-throughput sequencing. However, structural variations often yield features that can be mistaken for chromosomal interactions. Here, we describe a computational method HiNT (Hi-C for copy Number variation and Translocation detection), which detects copy number variations and interchromosomal translocations within Hi-C data with breakpoints at single base-pair resolution. We demonstrate that HiNT outperforms existing methods on both simulated and real data. We also show that Hi-C can supplement whole-genome sequencing in structure variant detection by locating breakpoints in repetitive regions.
+abstract: How disease-associated mutations impair protein activities in the context of biological networks remains mostly undetermined. Although a few renowned alleles are well characterized, functional information is
+missing for over 100,000 disease-associated variants. Here we functionally profile several thousand missense mutations across a spectrum of Mendelian
+disorders using various interaction assays. The majority of disease-associated alleles exhibit wild-type
+chaperone binding profiles, suggesting they preserve protein folding or stability. While common variants from healthy individuals rarely affect interactions, two-thirds of disease-associated alleles perturb protein-protein interactions, with half corresponding to
+‘‘edgetic’’ alleles affecting only a subset of interactions while leaving most other interactions unperturbed. With transcription factors, many alleles that
+leave protein-protein interactions intact affect DNA binding. Different mutations in the same gene leading to different interaction profiles often result in distinct disease phenotypes. Thus disease-associated alleles that perturb distinct protein activities rather than grossly affecting folding and stability are relatively widespread.
+
 
 # Summary. An optional shortened abstract.
 
