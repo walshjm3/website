@@ -6,7 +6,7 @@ title: 'A proteome-scale map of the human interactome network'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Rolland, Thomas
-  - Ta{\c{s}}an, Murat
+  - Tasan, Murat
   - Charloteaux, Benoit
   - Pevzner, Samuel J
   - Zhong, Quan
@@ -18,7 +18,7 @@ authors:
 
 # Author notes (optional)
 
-date: '2020-03-23'
+date: '2014-11-20'
 doi: ''
 
 # Publication type.

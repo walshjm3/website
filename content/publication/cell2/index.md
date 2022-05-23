@@ -32,7 +32,7 @@ authors:
   - Dawit Balcha
   - Amelie Dricot
   - Daniel M. Jordan
-  - Jennifer M. Walsh
+  - admin
   - Akash A. Shah
   - Xinping Yang
   - Ani K. Stoyanova
@@ -43,7 +43,7 @@ authors:
   - Kourosh Salehi-Ashtiani
   - Luke J. Whitesell
   - Shamil Sunyaev,12,16 Bonnie Berger
-  - Albert-La´ szlo´ Baraba´ si
+  - Albert-Laszlo Barabasi
   - Benoit Charloteaux
   - David E. Hill
   - Tong Hao
