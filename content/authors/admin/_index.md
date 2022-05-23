@@ -42,4 +42,4 @@ I graduated from Harvard with an A.B. in Physics & Mathematics. Before starting 
 
 My research interests include public economics, industrial organization, and health policy.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
