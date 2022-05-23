@@ -1,5 +1,5 @@
 ---
-title: 'HiNT: a computational method for detecting copy number variations and translocations from {Hi}-{C} data'
+title: 'HiNT: a computational method for detecting copy number variations and translocations from Hi-C data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,7 +14,7 @@ authors:
 
 # Author notes (optional)
 
-date: '2020'
+date: '2020-03-23'
 doi: ''
 
 # Publication type.
@@ -69,7 +69,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
