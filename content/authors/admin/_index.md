@@ -25,14 +25,14 @@ education:
   courses:
     - course: A.B. in Physics & Mathematics
       institution: Harvard University
-      year: 2015
+      year: 2017
 email: jenniferwalsh@g.harvard.edu
 superuser: true
 highlight_name: true
 ---
 I am a Ph.D. student in Business Economics at Harvard, where I am supported by the [NSF](https://www.nsfgrfp.org/) and [](https://www.google.com/url?q=https%3A%2F%2Fopportunityinsights.org%2F&sa=D&sntz=1&usg=AOvVaw25HI_wRsvNuIDcxFw_nmSR)[Opportunity Insights](https://opportunityinsights.org/).
 
-I graduated from Harvard in 2017 with an A.B. in Physics & Mathematics. Before starting my Ph.D., I was a management consultant at [Bain & Company](http://bain.com) and a research assistant at the [National Bureau of Economic Research](https://www.nber.org/).
+I graduated from Harvard with an A.B. in Physics & Mathematics. Before starting my Ph.D., I was a management consultant at [Bain & Company](http://bain.com) and a research assistant at the [National Bureau of Economic Research](https://www.nber.org/).
 
 My research interests include public economics, industrial organization, and health policy.
 
