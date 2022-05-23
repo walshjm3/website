@@ -3,7 +3,7 @@ widget: index
 widget_id: pages
 headless: true
 weight: 10
-active: false
+active: true
 design:
   columns: "2"
   background:
