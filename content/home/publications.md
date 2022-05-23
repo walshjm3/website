@@ -41,4 +41,7 @@ design:
 #{{% callout note %}}
 #Quickly discover relevant content by [filtering publications](./publication/).
 #{{% /callout %}}
+<<<<<<< HEAD
+>>>>>>> parent of ff8d678 (test)
+=======
 >>>>>>> parent of ff8d678 (test)
