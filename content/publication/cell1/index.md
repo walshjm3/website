@@ -15,6 +15,66 @@ authors:
   - Lemmens, Irma
   - Fontanillo, Celia
   - Mosca, Roberto
+  - Kamburov, Atanas
+  - Ghiassian, Susan D
+  - Yang, Xinping
+  - Ghamsari, Lila
+  - Balcha, Dawit
+  - Begg, Bridget E
+  - Braun, Pascal
+  - Brehme, Marc
+  - Broly, Martin P
+  - Carvunis, Anne-Ruxandra
+  - Convery-Zupan, Dan
+  - Corominas, Roser
+  - Coulombe-Huntington, Jasmin
+  - Dann, Elizabeth
+  - Dreze, Matija 
+  - Dricot, Amélie 
+  - Fan, Changyu
+  - Franzosa, Eric
+  - Fana Gebreab 
+  - Gutierrez, Bryan J
+  - Hardy, Madeleine F 
+  - Jin, Mike
+  - Kang, Shuli
+  - Kiros, Ruth
+  - Lin, Guan Ning
+  - Luck, Katja
+  - MacWilliams, Andrew 
+  - Menche, Jörg
+  - Murray, Ryan R
+  - Alexandre Palagi 
+  - Matthew M. Poulin 
+  - Xavier Rambout 
+  - John Rasla 
+  - Patrick Reichert 
+  - Viviana Romero 
+  - Elien Ruyssinck 
+  - Julie M. Sahalie 
+  - Scholz, Annemarie
+  - Shah, Akash A
+  - Sharma, Amitabh
+  - Shen, Yun 
+  - Spirohn, Kerstin 
+  - Tam, Stanley
+  - Tejeda, Alexander O
+  - Trigg, Shelly A
+  - Twizere, Jean-Claude
+  - Vega, Kerwin
+  - admin
+  - Cusick, Michael E
+  - Xia, Yu
+  - Barabási, Albert-László
+  - Iakoucheva, Lilia M
+  - Aloy, Patrick
+  - De Las Rivas, Javier
+  - Tavernier, Jan
+  - Calderwood, Michael A
+  - Hill, David E
+  - Hao, Tong
+  - Roth, Frederick P
+  - Vidal, Marc
 
 # Author notes (optional)
 
@@ -44,7 +104,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.cell.com/fulltext/S0092-8674(14)01422-6'
 url_code: ''
 url_dataset: ''
 url_poster: ''
