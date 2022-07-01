@@ -5,45 +5,45 @@ title: 'A proteome-scale map of the human interactome network'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Rolland, Thomas
-  - Tasan, Murat
-  - Charloteaux, Benoit
-  - Pevzner, Samuel J
-  - Zhong, Quan
-  - Sahni, Nidhi
-  - Yi, Song
-  - Lemmens, Irma
-  - Fontanillo, Celia
-  - Mosca, Roberto
-  - Kamburov, Atanas
-  - Ghiassian, Susan D
-  - Yang, Xinping
-  - Ghamsari, Lila
-  - Balcha, Dawit
-  - Begg, Bridget E
-  - Braun, Pascal
-  - Brehme, Marc
-  - Broly, Martin P
-  - Carvunis, Anne-Ruxandra
-  - Convery-Zupan, Dan
-  - Corominas, Roser
-  - Coulombe-Huntington, Jasmin
-  - Dann, Elizabeth
-  - Dreze, Matija 
-  - Dricot, Amélie 
-  - Fan, Changyu
-  - Franzosa, Eric
+  - Thomas Rolland
+  - Murat Tasan
+  - Benoit Charloteaux
+  - Samuel J Pevzner
+  - Quan Zhong
+  - Nidhi Sahni
+  - Song Yi
+  - Irma Lemmens
+  - Celia Fontanillo
+  - Roberto Mosca
+  - Atanas Kamburov
+  - Susan D Ghiassian
+  - Xinping Yang
+  - Lila Ghamsari
+  - Dawit Balcha
+  - Bridget E Begg
+  - Pascal Braun
+  - Marc Brehme
+  - Martin P Broly
+  - Anne-Ruxandra Carvunis
+  - Dan Convery-Zupan
+  - Roser Corominas 
+  - Jasmin Coulombe-Huntington
+  - Elizabeth Dann
+  - Matija Dreze
+  - Amélie Dricot 
+  - Changyu Fan
+  - Eric Franzosa
   - Fana Gebreab 
-  - Gutierrez, Bryan J
-  - Hardy, Madeleine F 
-  - Jin, Mike
-  - Kang, Shuli
-  - Kiros, Ruth
-  - Lin, Guan Ning
-  - Luck, Katja
-  - MacWilliams, Andrew 
-  - Menche, Jörg
-  - Murray, Ryan R
+  - Bryan J Gutierrez
+  - Madeleine F Hardy 
+  - Mike Jin
+  - Shuli Kang
+  - Ruth Kiros
+  - Guan Ning Lin
+  - Katja Luck
+  - Andrew MacWilliams 
+  - Jörg Menche
+  - Ryan R Murray
   - Alexandre Palagi 
   - Matthew M. Poulin 
   - Xavier Rambout 
@@ -51,30 +51,30 @@ authors:
   - Patrick Reichert 
   - Viviana Romero 
   - Elien Ruyssinck 
-  - Julie M. Sahalie 
-  - Scholz, Annemarie
-  - Shah, Akash A
-  - Sharma, Amitabh
-  - Shen, Yun 
-  - Spirohn, Kerstin 
-  - Tam, Stanley
-  - Tejeda, Alexander O
-  - Trigg, Shelly A
-  - Twizere, Jean-Claude
-  - Vega, Kerwin
+  - Julie M Sahalie 
+  - Annemarie Scholz
+  - Akash A Shah
+  - Amitabh Sharma
+  - Yun Shen 
+  - Kerstin Spirohn 
+  - Stanley Tam
+  - Alexander O Tejeda
+  - Shelly A Trigg
+  - Jean-Claude Twizere
+  - Kerwin Vega
   - admin
-  - Cusick, Michael E
-  - Xia, Yu
-  - Barabási, Albert-László
-  - Iakoucheva, Lilia M
-  - Aloy, Patrick
-  - De Las Rivas, Javier
-  - Tavernier, Jan
-  - Calderwood, Michael A
-  - Hill, David E
-  - Hao, Tong
-  - Roth, Frederick P
-  - Vidal, Marc
+  - Michael E Cusick
+  - Yu Xia
+  - Albert-László Barabási
+  - Lilia M Iakoucheva
+  - Patrick Aloy
+  - Javier De Las Rivas
+  - Jan Tavernier
+  - Michael A Calderwood
+  - David E Hill
+  - Tong Hao
+  - Frederick P Roth
+  - Marc Vidal
 
 # Author notes (optional)
 
