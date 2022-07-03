@@ -5,17 +5,17 @@ title: 'Widespread macromolecular interaction perturbations in human genetic dis
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Sahni, Nidhi
-  - Yi, Song
-  - Taipale, Mikko
-  - Bass, Juan I Fuxman
-  - Coulombe-Huntington, Jasmin
-  - Yang, Fan
-  - Peng, Jian
-  - Weile, Jochen
-  - Karras, Georgios I 
-  - Wang, Yang
-  - Kovacs, Istvan A
+  - Nidhi Sahni 
+  - Song Yi
+  - Mikko Taipale
+  - Juan I. Fuxman Bass
+  - Jasmin Coulombe-Huntington
+  - Fan Yang 
+  - Jian Peng
+  - Jochen Weile
+  - Georgios I. Karras
+  - Yang Wang
+  - Istvan A. Kovacs
   - Atanas Kamburov
   - Irina Krykbaeva
   - Mandy H. Lam
@@ -42,7 +42,8 @@ authors:
   - Michael E. Cusick
   - Kourosh Salehi-Ashtiani
   - Luke J. Whitesell
-  - Shamil Sunyaev,12,16 Bonnie Berger
+  - Shamil Sunyaev
+  - Bonnie Berger
   - Albert-Laszlo Barabasi
   - Benoit Charloteaux
   - David E. Hill

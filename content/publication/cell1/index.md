@@ -8,7 +8,7 @@ authors:
   - Thomas Rolland
   - Murat Tasan
   - Benoit Charloteaux
-  - Samuel J Pevzner
+  - Samuel J. Pevzner
   - Quan Zhong
   - Nidhi Sahni
   - Song Yi
@@ -34,8 +34,8 @@ authors:
   - Changyu Fan
   - Eric Franzosa
   - Fana Gebreab 
-  - Bryan J Gutierrez
-  - Madeleine F Hardy 
+  - Bryan J. Gutierrez
+  - Madeleine F. Hardy 
   - Mike Jin
   - Shuli Kang
   - Ruth Kiros
@@ -51,29 +51,29 @@ authors:
   - Patrick Reichert 
   - Viviana Romero 
   - Elien Ruyssinck 
-  - Julie M Sahalie 
+  - Julie M. Sahalie 
   - Annemarie Scholz
-  - Akash A Shah
+  - Akash A. Shah
   - Amitabh Sharma
   - Yun Shen 
   - Kerstin Spirohn 
   - Stanley Tam
-  - Alexander O Tejeda
-  - Shelly A Trigg
+  - Alexander O. Tejeda
+  - Shelly A. Trigg
   - Jean-Claude Twizere
   - Kerwin Vega
   - admin
-  - Michael E Cusick
+  - Michael E. Cusick
   - Yu Xia
   - Albert-László Barabási
-  - Lilia M Iakoucheva
+  - Lilia M. Iakoucheva
   - Patrick Aloy
   - Javier De Las Rivas
   - Jan Tavernier
-  - Michael A Calderwood
-  - David E Hill
+  - Michael A. Calderwood
+  - David E. Hill
   - Tong Hao
-  - Frederick P Roth
+  - Frederick P. Roth
   - Marc Vidal
 
 # Author notes (optional)
